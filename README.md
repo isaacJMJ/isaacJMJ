@@ -1,4 +1,4 @@
-# Isaac Moreira Jorge
+# 🧑🏻‍💻 Isaac Moreira Jorge
 
 Estudante técnico em Informática pelo Instituto Federal do Pará (IFPA), focado no desenvolvimento de software, fundamentos de infraestrutura e na vanguarda das tecnologias de Inteligência Artificial.
 
