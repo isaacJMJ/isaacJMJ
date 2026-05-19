@@ -2,6 +2,24 @@
 
 Estudante técnico em Informática pelo Instituto Federal do Pará (IFPA), focado no desenvolvimento de software, fundamentos de infraestrutura e na vanguarda das tecnologias de Inteligência Artificial.
 
+<p align="left">
+    </a>
+    <a href="https://github.com/isaacJMJ?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/isaacJMJ?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/isaacJMJ?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/isaacJMJ?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
 ---
 
 ## Sobre Mim
