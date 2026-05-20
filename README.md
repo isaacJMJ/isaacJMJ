@@ -31,7 +31,7 @@ Com 16 anos, conduzo minha formação acadêmica e profissional através do ensi
 ## Competências Técnicas
 
 ### Desenvolvimento e Interface
-* **Python:** Construção de lógica de programação, scripts de automação e desenvolvimento de aplicações.
+* **Python:** Construção de lógica de programação, conceitos básicos e desenvolvimento de aplicações.
 * **HTML5:** Estruturação de interfaces web com foco em semântica e acessibilidade.
 * **CSS3:** Estilização avançada e adaptabilidade de layouts responsivos.
 
