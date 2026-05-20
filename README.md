@@ -33,7 +33,7 @@ Com 16 anos, conduzo minha formação acadêmica e profissional através do ensi
 ### Desenvolvimento e Interface
 * **Python:** Construção de lógica de programação, conceitos básicos e desenvolvimento de aplicações.
 * **HTML5:** Estruturação de interfaces web com foco em semântica e acessibilidade.
-* **CSS3:** Estilização avançada e adaptabilidade de layouts responsivos.
+* **CSS3:** Estilização e adaptabilidade de layouts responsivos.
 
 ### Infraestrutura e Controle de Versão
 * **Git:** Gerenciamento de histórico de código, controle de versão e boas práticas de repositório.
