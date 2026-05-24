@@ -31,6 +31,9 @@ Com 16 anos, conduzo minha formação acadêmica e profissional através do ensi
 * **Redes de Computadores:** Compreensão dos conceitos base de comunicação, protocolos de internet e arquitetura de redes.
 
 ### 🧰 Tecnologias de Uso Diário
+
+</br>
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="45" height="45" />&nbsp;&nbsp;
@@ -52,12 +55,10 @@ Dedico meus estudos extracurriculares ao ecossistema de **Inteligência Artifici
 
 ## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas do GitHub
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacJMJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacJMJ&layout=compact&langs_count=7&theme=tokyonight" height="180" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacJMJ&theme=tokyonight" height="180" alt="Streak Stats" />
 </p>
+
 ---
 
 ## 🤝 Contato e Conexões
