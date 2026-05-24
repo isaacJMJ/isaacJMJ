@@ -30,7 +30,7 @@ Com 16 anos, conduzo minha formação acadêmica e profissional através do ensi
 * **Banco de Dados:** Conhecimento fundamental para estruturação, modelagem e manipulação de dados de forma lógica.
 * **Redes de Computadores:** Compreensão dos conceitos base de comunicação, protocolos de internet e arquitetura de redes.
 
-### 🧰 Tecnologias de Uso Diário
+### Tecnologias de Uso Diário
 
 </br>
 
