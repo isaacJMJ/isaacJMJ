@@ -52,11 +52,12 @@ Dedico meus estudos extracurriculares ao ecossistema de **Inteligência Artifici
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacJMJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacJMJ&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+## 📊 Estatísticas do GitHub
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacJMJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacJMJ&layout=compact&langs_count=7&theme=tokyonight" height="180" alt="Linguagens mais usadas" />
+</p>
 ---
 
 ## 🤝 Contato e Conexões
