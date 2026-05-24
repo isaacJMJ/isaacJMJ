@@ -21,11 +21,11 @@ Com 16 anos, conduzo minha formação acadêmica e profissional através do ensi
 
 ## 🛠️ Competências Técnicas
 
-### 💻 Desenvolvimento e Interface
+### Desenvolvimento e Interface
 * **Python:** Construção de lógica de programação, conceitos básicos e desenvolvimento de aplicações.
 * **HTML5 & CSS3:** Estruturação de interfaces web com foco em semântica, acessibilidade e adaptabilidade de layouts responsivos.
 
-### 🌐 Infraestrutura e Controle de Versão
+### Infraestrutura e Controle de Versão
 * **Git & GitHub:** Gerenciamento de histórico de código, controle de versão e boas práticas de repositório.
 * **Banco de Dados:** Conhecimento fundamental para estruturação, modelagem e manipulação de dados de forma lógica.
 * **Redes de Computadores:** Compreensão dos conceitos base de comunicação, protocolos de internet e arquitetura de redes.
